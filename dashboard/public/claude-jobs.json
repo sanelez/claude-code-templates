@@ -1,12 +1,28 @@
 {
-  "lastUpdated": "2026-07-30T05:53:56.955461+00:00",
-  "totalJobs": 100,
+  "lastUpdated": "2026-07-31T06:20:40.882028+00:00",
+  "totalJobs": 96,
   "sources": [
     "Anthropic",
     "HackerNews",
+    "RemoteOK",
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "rok-remote-senior-demand-generation-manager-testgorilla-1135606",
+      "company": "TestGorilla",
+      "position": "Senior Demand Generation Manager",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "â¨ Where do we hire from? Find out if we're hiring in your location from hiring at TestGorilla Hi there, I'm Mehak , interim Head of Marketing at TestGorilla. We’re excited to share more about the Sr. Demand Generation Manager role and our team. About the role As our Sr. Demand Generation Manager...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-demand-generation-manager-testgorilla-1135606",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-demand-generation-manager-testgorilla-1135606",
+      "postedAt": "2026-07-29T11:15:01+00:00",
+      "tags": [],
+      "companyIcon": ""
+    },
     {
       "id": "anth-5355526008",
       "company": "Anthropic",
@@ -213,6 +229,51 @@
         "PostgreSQL",
         "AWS",
         "GCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "company": "Vidalytics",
+      "position": "AI Automation Engineer, In-House MarTech Video SaaS",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Austin, TX URL: https://vidalytics.com If you love building AI agents, wiring systems together, and watching whole teams stop doing by hand what a machine can do better, faster, and cheaper, and you want to make a whole company AI native rather than ship a slick demo, keep reading....",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "postedAt": "2026-07-07T12:49:42+00:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "GCP",
+        "Claude Code",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+      "company": "Vidalytics",
+      "position": "[EUROPE ONLY] GTM MarTech Engineer (Growth & Attribution) at Video MarTech SaaS",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Austin, TX URL: https://vidalytics.com This is not a typical product engineering role, rather you’re gonna be the key technical person, as a fullstack engineer who gets marketing, for the GTM teams @ Vidalytics. Reporting to the CEO who owns these functions. LFG! You’ll own tracking,...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+      "postedAt": "2026-07-07T12:39:09+00:00",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Rust",
+        "Go",
+        "Node.js",
+        "GCP",
+        "Claude Code",
+        "MySQL"
       ],
       "companyIcon": ""
     },
@@ -433,26 +494,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48750050",
-      "company": "ArtCraft",
-      "position": "Backend Engineer",
-      "location": "Remote (Global) / Onsite (SF Bay Area and Atlanta, Georgia)",
-      "remote": true,
-      "salary": "",
-      "description": "We’re experienced artists and engineers building source available controllable AI for artists, filmmakers, musicians, and creatives. Many of the top artists in the expanding AI art industry use our tools. We’re building this for them as much as for ourselves. -...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48750050",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48750050",
-      "postedAt": "2026-07-01T17:07:49+00:00",
-      "tags": [
-        "Rust",
-        "Go",
-        "Claude Code",
-        "MySQL"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48749788",
       "company": "Delta AI",
       "position": "Software Engineer",
@@ -558,26 +599,6 @@
       "tags": [
         "Claude Code",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-arize-ai-open-source-design-engineer",
-      "company": "Arize Ai",
-      "position": "Open Source Design Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "$145,000 - $185,000,",
-      "description": "Headquarters: Remote (United States) About Arize AI is rapidly transforming the world. As generative AI reshapes industries, teams need powerful ways to monitor, troubleshoot, and optimize their AI systems. That’s where we come in. Arize AI is the leading AI & Agent Engineering observability and...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
-      "postedAt": "2026-06-30T20:31:42+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Rust",
-        "Claude Code"
       ],
       "companyIcon": ""
     },
@@ -870,23 +891,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48383195",
-      "company": "Neuralk AI",
-      "position": "Software Engineer",
-      "location": "Full-time",
-      "remote": false,
-      "salary": "",
-      "description": "We are a seed stage startup building Tabular Foundation Models (TFM). This is an emerging space with huge potential. LLM's like Claude take text as input and produce text. Model's like nano banana take text as input and produce images. Tabular Foundation Models take rows/columns as input, and...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48383195",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48383195",
-      "postedAt": "2026-06-03T12:38:50+00:00",
-      "tags": [
-        "Python"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48377948",
       "company": "ALBERT",
       "position": "Software Engineer",
@@ -945,27 +949,6 @@
         "PostgreSQL",
         "Claude Code",
         "Tailwind"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48368468",
-      "company": "RealEstateU",
-      "position": "Software Engineer",
-      "location": "REMOTE (UTC-01:00 to UTC+03:00)",
-      "remote": true,
-      "salary": "",
-      "description": "We're a leading online U.S. real estate education provider. Our custom LMS is a large MERN platform (Node/Express, MongoDB Atlas, React, Azure) currently maintained by an external contractor. We need one senior fullstack engineer to help establish oversight and technical standards for the platform,...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48368468",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48368468",
-      "postedAt": "2026-06-02T10:47:54+00:00",
-      "tags": [
-        "React",
-        "Azure",
-        "Claude Code",
-        "Cursor",
-        "MongoDB"
       ],
       "companyIcon": ""
     },
@@ -1689,28 +1672,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "anth-5192805008",
-      "company": "Anthropic",
-      "position": "Applied AI Architect, Commercial",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping customers understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You'll combine...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "postedAt": "2026-04-17T16:25:27-04:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "anth-5192104008",
       "company": "Anthropic",
       "position": "Head of Applied AI Architecture, Beneficial Deployments",
@@ -1724,28 +1685,6 @@
       "postedAt": "2026-04-17T10:45:07-04:00",
       "tags": [
         "Python",
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5174743008",
-      "company": "Anthropic",
-      "position": "Senior Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic’s Product Engineering org is looking for experienced engineers with strong full-stack fundamentals to join one of teams owning our current or emergent products. You'll be a technical leader who thinks holistically about the consumer and/or enterprise end user experience - be that via...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "postedAt": "2026-04-08T14:58:35-04:00",
-      "tags": [
-        "React",
-        "TypeScript",
         "Rust",
         "AWS",
         "Claude Code",
@@ -1790,31 +1729,6 @@
       "tags": [
         "Rust",
         "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5157847008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "We are looking for experienced software engineers to join our Platform organization. We build the foundational primitives that accelerate product development across Anthropic, and own infrastructure and systems that teams depend on to ship reliably and at scale - either internally or by hundreds of...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "postedAt": "2026-04-08T12:56:33-04:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Kubernetes",
         "Claude Code",
         "Anthropic"
       ],
