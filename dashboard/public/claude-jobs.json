@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T06:20:40.882028+00:00",
-  "totalJobs": 96,
+  "lastUpdated": "2026-08-01T06:06:02.060699+00:00",
+  "totalJobs": 102,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -494,6 +494,26 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48750050",
+      "company": "ArtCraft",
+      "position": "Backend Engineer",
+      "location": "Remote (Global) / Onsite (SF Bay Area and Atlanta, Georgia)",
+      "remote": true,
+      "salary": "",
+      "description": "We’re experienced artists and engineers building source available controllable AI for artists, filmmakers, musicians, and creatives. Many of the top artists in the expanding AI art industry use our tools. We’re building this for them as much as for ourselves. -...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48750050",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48750050",
+      "postedAt": "2026-07-01T17:07:49+00:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "Claude Code",
+        "MySQL"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48749788",
       "company": "Delta AI",
       "position": "Software Engineer",
@@ -891,6 +911,23 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48383195",
+      "company": "Neuralk AI",
+      "position": "Software Engineer",
+      "location": "Full-time",
+      "remote": false,
+      "salary": "",
+      "description": "We are a seed stage startup building Tabular Foundation Models (TFM). This is an emerging space with huge potential. LLM's like Claude take text as input and produce text. Model's like nano banana take text as input and produce images. Tabular Foundation Models take rows/columns as input, and...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48383195",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48383195",
+      "postedAt": "2026-06-03T12:38:50+00:00",
+      "tags": [
+        "Python"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48377948",
       "company": "ALBERT",
       "position": "Software Engineer",
@@ -949,6 +986,27 @@
         "PostgreSQL",
         "Claude Code",
         "Tailwind"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48368468",
+      "company": "RealEstateU",
+      "position": "Software Engineer",
+      "location": "REMOTE (UTC-01:00 to UTC+03:00)",
+      "remote": true,
+      "salary": "",
+      "description": "We're a leading online U.S. real estate education provider. Our custom LMS is a large MERN platform (Node/Express, MongoDB Atlas, React, Azure) currently maintained by an external contractor. We need one senior fullstack engineer to help establish oversight and technical standards for the platform,...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48368468",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48368468",
+      "postedAt": "2026-06-02T10:47:54+00:00",
+      "tags": [
+        "React",
+        "Azure",
+        "Claude Code",
+        "Cursor",
+        "MongoDB"
       ],
       "companyIcon": ""
     },
@@ -1672,6 +1730,28 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5192805008",
+      "company": "Anthropic",
+      "position": "Applied AI Architect, Commercial",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping customers understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You'll combine...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
+      "postedAt": "2026-04-17T16:25:27-04:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5192104008",
       "company": "Anthropic",
       "position": "Head of Applied AI Architecture, Beneficial Deployments",
@@ -1685,6 +1765,28 @@
       "postedAt": "2026-04-17T10:45:07-04:00",
       "tags": [
         "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5174743008",
+      "company": "Anthropic",
+      "position": "Senior Software Engineer, Full-stack",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic’s Product Engineering org is looking for experienced engineers with strong full-stack fundamentals to join one of teams owning our current or emergent products. You'll be a technical leader who thinks holistically about the consumer and/or enterprise end user experience - be that via...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
+      "postedAt": "2026-04-08T14:58:35-04:00",
+      "tags": [
+        "React",
+        "TypeScript",
         "Rust",
         "AWS",
         "Claude Code",
@@ -1729,6 +1831,31 @@
       "tags": [
         "Rust",
         "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5157847008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "remote": false,
+      "salary": "",
+      "description": "We are looking for experienced software engineers to join our Platform organization. We build the foundational primitives that accelerate product development across Anthropic, and own infrastructure and systems that teams depend on to ship reliably and at scale - either internally or by hundreds of...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "postedAt": "2026-04-08T12:56:33-04:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
         "Claude Code",
         "Anthropic"
       ],
