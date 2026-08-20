@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T03:52:40.067255+00:00",
-  "totalJobs": 96,
+  "lastUpdated": "2026-08-20T03:53:07.800643+00:00",
+  "totalJobs": 98,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -159,6 +159,27 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "hn-49215237",
+      "company": "Deepline",
+      "position": "Software Engineer",
+      "location": "On-site",
+      "remote": false,
+      "salary": "$160k–$230k",
+      "description": "User interfaces are dead. Knowledge workers will exclusively work through agent interfaces like Claude Code/Cowork. We've built the interface layer to enable that. One API that unifies hundreds of data providers, workflows, and data infrastructure to agents like Claude Code. This is GTM as code —...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49215237",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49215237",
+      "postedAt": "2026-08-07T19:32:31+00:00",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "Claude Code"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-49215140",
@@ -1367,6 +1388,23 @@
         "Python",
         "Rust",
         "PostgreSQL"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48361035",
+      "company": "Railway",
+      "position": "Senior Infra Engineer",
+      "location": "REMOTE (Worldwide)",
+      "remote": true,
+      "salary": "",
+      "description": "Do you feel scared and alone when opening the AWS console? Do you wish you could just tell Claude to manage your infra, and it would just work? Do you dream of a future where software is abundant and developers and normies alike are free to build their wildest dreams? We're Railway, and we think...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48361035",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48361035",
+      "postedAt": "2026-06-01T18:52:40+00:00",
+      "tags": [
+        "AWS"
       ],
       "companyIcon": ""
     },
