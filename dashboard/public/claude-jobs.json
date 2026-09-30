@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "2026-09-29T09:43:00.749031+00:00",
-  "totalJobs": 89,
+  "lastUpdated": "2026-09-30T09:34:07.287102+00:00",
+  "totalJobs": 92,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK"
+    "RemoteOK",
+    "WeWorkRemotely"
   ],
   "jobs": [
     {
@@ -166,6 +167,27 @@
         "PostgreSQL",
         "GCP",
         "GraphQL"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-acculynx-senior-software-engineer",
+      "company": "AccuLynx",
+      "position": "Senior Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Beloit, WI URL: http://acculynx.com Senior Software Engineer AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+      "postedAt": "2026-09-15T14:12:47+00:00",
+      "tags": [
+        "Go",
+        "Claude Code",
+        "Copilot",
+        "Vue.js",
+        "Redis"
       ],
       "companyIcon": ""
     },
@@ -522,6 +544,29 @@
       "companyIcon": ""
     },
     {
+      "id": "anth-5390966008",
+      "company": "Anthropic",
+      "position": "Staff Software Engineer, GTM AI Engineering ",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+      "remote": true,
+      "salary": "",
+      "description": "As a Staff Software Engineer on the GTM AI Engineering (Claudification) team, you will build the agents and AI systems that run Anthropic's own go-to-market work. Our sellers already work alongside agents every day. You will take things to the next step and build agents that run complete autonomous...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+      "postedAt": "2026-08-25T18:59:04-04:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5398227008",
       "company": "Anthropic",
       "position": "Staff+ Software Engineer, Auth & Identity",
@@ -645,6 +690,29 @@
         "Rust",
         "AWS",
         "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5391151008",
+      "company": "Anthropic",
+      "position": "AI Operations Engineer, Partnerships",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "Our Partner Experience team is building an AI-native operating model. We already run a growing set of partner-facing systems: a partner portal, CRM workflows, enablement and certification platforms, and the trackers that connect them. The systems lead on our team owns that foundation — the portal,...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+      "postedAt": "2026-08-14T18:07:17-04:00",
+      "tags": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Rails",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
